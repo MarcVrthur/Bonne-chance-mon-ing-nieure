@@ -1,0 +1,6 @@
+{
+  "name": "PhytoQuiz Master",
+  "description": "Une application complète de révision pour le devoir de phytopathologie, avec thèmes, quiz et gestion de questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
